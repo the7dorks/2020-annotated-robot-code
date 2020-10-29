@@ -3,6 +3,8 @@ This repository contains all of the code used by 333A's robot in the 2020-2021 V
 ## How to Use This Code
 ### For Reading
 The relevant code in this repository is organized by two types of files: `#include`ed c++ header files (`.hpp`) in the "include" folder, and their corresponding c++ source files (`.cpp`) in the "src" folder. All of the files not in the "include" or "src" folders are only used for compiling/downloading the code to the robot.
+
+The autonomous run begins on line 64 of Auton.cpp, found on page 37 of `robot-code.pdf`.
 #### `robot-code.pdf`
 It is possible to read the code directly from GitHub, but for the best experience, it is recomended that you read robot-code.pdf, which is formatted for readibility and does not include files provided by pros.
 ### For Use on a Robot
