@@ -7,6 +7,8 @@ The relevant code in this repository is organized by two types of files: `#inclu
 The autonomous run begins on line 64 of Auton.cpp, found on page 37 of `robot-code.pdf`.
 #### `robot-code.pdf`
 It is possible to read the code directly from GitHub, but for the best experience, it is recomended that you read robot-code.pdf, which is formatted for readibility and does not include files provided by pros.
+#### Photos
+For a few more pictures not shown in the submission video due to a lack of time, see the "Photos" folder. They are pictures of the brain screen used for debugging odometry, and any other changing value.
 ### For Use on a Robot
 Dowload the files, then run `prosv5 upload all` with a v5 brain connected (you must have pros cli installed).
 ## File Map
